@@ -31,7 +31,7 @@ aqapi is a free, public and open source air quality service consisting of:
 
 ### the icon
 
-> <img src="dashing-away-twemoji-14-0.png" width="40" height="40">
+> <img src="/profile/dashing-away-twemoji-14-0.png" width="40" height="40">
 >
 > Copyright 2019 Twitter, Inc and other contributors <br>
 > Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
